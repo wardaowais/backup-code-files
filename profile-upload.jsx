@@ -1,3 +1,4 @@
+//dashboard/profile/page
 "use client";
 
 import Loading from "@/components/loading";
